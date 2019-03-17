@@ -122,6 +122,27 @@ $ mysqladmin -u root password 'password' #改密码了喂
 $ mysql -uroot -p #启动mysql管理器看看，自己手动输入密码
 ```
 
+其实还可以用`mysql_secure_installation`(推荐)这个命令来设置相关安全问题
+
+```
+#运行
+mysql_secure_installation
+
+#输入当前密码
+Enter current password for root (enter for none):
+
+#更改密码
+Set root password? [Y/n] y
+New password: 
+Re-enter new password:
+
+#其他设置，这个根据个人需求设置
+Remove anonymous users? [Y/n] Y                #是否移除匿名用户
+Disallow root login remotely? [Y/n] n          #是否不允许root远程登录
+Remove test database and access to it? [Y/n] n #是否移除test数据库
+Reload privilege tables now? [Y/n] y           #是否重新加载表的权限
+```
+
 这会话被收后台了，怎么搞起来？
 
 > Baidu了一圈说
