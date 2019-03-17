@@ -146,7 +146,9 @@ Reload privilege tables now? [Y/n] y           #是否重新加载表的权限
 这会话被收后台了，怎么搞起来？
 
 > Baidu了一圈说
+
 > tmux ls #列出会话,比如会话名称，0，1，2
+
 > tmux a -t 0 #0是会话名称来的
 
 mysqld怎么退出？wdnmd，万能退出大法Ctrl + C 竟然没用 Ctrl + Z 呢？也没用
