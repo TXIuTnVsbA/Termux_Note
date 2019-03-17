@@ -64,9 +64,11 @@ win:-> 参考git
 ```
 
 > 最后，电脑端会生成`id_rsa`, `id_rsa.pub`
+>
 > 然后,电脑端拷贝公钥id_rsa.pub到手机端Termux的key目录件中,重命名为`authorized_keys`
 
 > Linux(不管是Pc还是Termux)的key目录是`~/.ssh/`
+>
 > Win的话,参考git，看你个人能力的时候到了
 
 > 怎么Copy就需要在Termux建立一个链接文件夹了，具体命令:
