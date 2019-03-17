@@ -39,7 +39,7 @@ format = columns
 
 > pip install BeautifulSoup4 requests
 
-**(2) 安装lxml模块**
+#### (2) 安装lxml模块
 
 为避免lxml安装失败，先安装一堆我也不知道有没有用的东西
 
@@ -51,11 +51,11 @@ format = columns
 
 这里安装有点慢，请耐心等待
 
-**(3) 安装scrapy模块（必须先安装lxml才行）**
+#### (3) 安装scrapy模块（必须先安装lxml才行）
 
 > pip install scrapy
 
-**(4) 安装numpy模块 (这个模块的安装贼恶心)**
+#### (4) 安装numpy模块 (这个模块的安装贼恶心)
 
 又要安装一堆我不懂的东西了
 
@@ -71,7 +71,7 @@ format = columns
 
 一般是能安装的，要是不能，我也没办法，我是小白，我写给我自己看的
 
-**(5) 安装matplotlib pandas jupyter**
+#### (5) 安装matplotlib pandas jupyter
 
 = =这个东西嘛，
 
