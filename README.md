@@ -35,5 +35,5 @@
   [1]: https://github.com/TXIuTnVsbA/Termux_Note/blob/master/%E5%9F%BA%E6%9C%AC%E7%9A%84%E6%8A%98%E8%85%BE_Pt.1.md#1-apt--pkg
   [2]: https://github.com/TXIuTnVsbA/Termux_Note/blob/master/%E5%9F%BA%E6%9C%AC%E7%9A%84%E6%8A%98%E8%85%BE_Pt.1.md#2-ssh
   [3]: https://github.com/TXIuTnVsbA/Termux_Note/blob/master/%E5%9F%BA%E6%9C%AC%E7%9A%84%E6%8A%98%E8%85%BE_Pt.2.md#3python
-  [4]: https://github.com/TXIuTnVsbA/Termux_Note/blob/master/%E5%9F%BA%E6%9C%AC%E7%9A%84%E6%8A%98%E8%85%BE_Pt.3.md#%E5%9F%BA%E6%9C%AC%E7%9A%84%E6%8A%98%E8%85%BE
+  [4]: https://github.com/TXIuTnVsbA/Termux_Note/blob/master/%E5%9F%BA%E6%9C%AC%E7%9A%84%E6%8A%98%E8%85%BE_Pt.3.md#4-jupyter-notebook%E7%9A%84%E7%AE%80%E5%8D%95%E9%85%8D%E7%BD%AE
   [5]: https://github.com/TXIuTnVsbA/Termux_Note/blob/master/%E5%9F%BA%E6%9C%AC%E7%9A%84%E6%8A%98%E8%85%BE_Pt.4.md#5-php--mysql--phpmyadmin
