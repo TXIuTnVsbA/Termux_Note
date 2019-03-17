@@ -128,7 +128,7 @@ $ mysql -uroot -p #启动mysql管理器看看，自己手动输入密码
 #运行
 mysql_secure_installation
 
-#输入当前密码
+#输入当前密码, 如果密码没改的话默认是空的, 直接回车即可
 Enter current password for root (enter for none):
 
 #更改密码
