@@ -74,7 +74,9 @@ format = columns
 **(5) 安装matplotlib pandas jupyter**
 
 = =这个东西嘛，
+
 我mtk x20 + 3g RAM，安装起来有点慢
+
 我高通410 + 2g RAM，直接就卡住了，我相信它会安装完成的，只是时间问题而已
 
 > LDFLAGS=" -lm -lcompiler_rt" pip install matplotlib pandas jupyter
