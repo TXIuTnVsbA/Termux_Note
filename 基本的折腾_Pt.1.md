@@ -35,7 +35,7 @@ apt install vim curl wget git unzip unrar
 
 如果慢的话可以
 
-###### 更改源:
+##### 更改源:
 
 ```
 设置默认编辑器:
