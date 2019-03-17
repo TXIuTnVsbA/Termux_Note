@@ -1,7 +1,7 @@
 # Termux_折腾笔记
 
 ------
-**<center><font face="微软雅黑">目录</font></center>**
+<center><font face="微软雅黑">目录</font></center>
 
 > 基本的折腾
 
