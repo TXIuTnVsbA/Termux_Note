@@ -79,6 +79,7 @@ c.NotebookApp.password = u'sha1:914e....'  #填下生成的密中密码
 ------
 ## 参考
 ```
+    https://www.cnblogs.com/yangxiaolan/p/5778305.html
     https://www.cnblogs.com/wu-chao/p/8419889.html
 ```
 
